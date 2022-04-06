@@ -3,7 +3,7 @@ library(lintr)
 fp<-"C:/Users/jrwal/MSc Summer Project/Stats and R code/Project R"
 tidy_source(fp,comment=TRUE,file="new.R")
 
-
+#HELLO MY NAME IS DINA REEEEEEE
 
 #Loading files
 wc<-read.csv("wc.csv")
